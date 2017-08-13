@@ -14,4 +14,5 @@ The Underscores theme comes with basic support for featured images but you will 
 
 With CSS customize the look and location of the image div.
 
-![interface image](featured-image.gif)
+![interface image](![wireframe]({{site.url}}/mmp460/assets/wireframe-hp.png)
+featured-image.gif)
