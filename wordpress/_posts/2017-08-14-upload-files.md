@@ -2,7 +2,7 @@
 layout: class
 site: MMP 460 Multimedia Project Lab
 categories: wordpress 
-title: Using Filezilla to Upload Files to Your wpmmp Server Account
+title: Uploading Files with Filezilla to Your wpmmp Server Account
 ---
 - In Filezilla go to File > Site Manager,
 - Create a new site and name it.
