@@ -1,8 +1,8 @@
 ---
 layout: class
 site: MMP 460 Multimedia Project Lab
-categories: wordpress underscore
-title: Step-by-Step: Creating a ‘Gallery Menu’
+categories: wordpress
+title: Step-by-Step: Creating a Gallery Menu
 ---
 
 ![gallerr menu]({{site.url}}/assets/gallery-menu.jpg)
