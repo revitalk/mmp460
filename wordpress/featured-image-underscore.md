@@ -1,6 +1,7 @@
 ---
 layout: class
 site: MMP 460 Multimedia Project Lab
+categories: wordpress underscore
 title: Featured images in Underscores
 ---
 The Underscores theme comes with basic support for featured images but you will have to add them to the templates if you want them to be displayed. Use the following code wherever you want the featured image to be displayed:
