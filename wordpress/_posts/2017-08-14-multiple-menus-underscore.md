@@ -39,5 +39,5 @@ In order to use these menus in your theme we have to include them in our templat
 
         <?php wp_nav_menu( $menu_name ); ?>
 
-- For additional control over the menu code read here.
+- For additional control over the menu code [read here](https://revitalk.github.io/mmp460/wordpress/2017/08/13/menu-code.html).
 
