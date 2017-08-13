@@ -62,7 +62,9 @@ By default, WordPress assigns the table prefix wp_ to its MySQL database tables,
 
 **Step 4: Upload the files**
 
-- Use Filezilla to connect to your server account. Be sure to specify the folder that you created in step 1 as your default local directory.
+- [Use Filezilla to connect to your server account]({% post_url 2017-08-14-upload-files %}).
+
+ Be sure to specify the folder that you created in step 1 as your default local directory.
 Upload the folder portfolio to the folder public_html in the server.
 
 **Step 5: Run the Install Script**
