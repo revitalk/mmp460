@@ -29,4 +29,4 @@ In order to use these menus in the theme we have to include them in the template
 
         <?php wp_nav_menu( array( 'theme_location' => 'footer-nav' ) ); ?>
 
-For additional control over the menu code [read here]({{site.baseurl}}/mmp460/{% post_url 2017-08-14-menu-code %}).
+For additional control over the menu code read here.
