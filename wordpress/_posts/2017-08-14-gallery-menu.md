@@ -12,7 +12,7 @@ title: Gallery Menu Step-by-Step
 - Create the thumbnails. Include any text if it is part of the design.
 - Make sure to crop them to their final, and identical size.
 
-![gallery url]({{site.url}}/mmp460/assets/gallery-url.jpg)
+![gallery url]({{site.url}}/mmp460/assets/gallery-url.gif)
 
 In WordPress dashboard:gallery-url
 
