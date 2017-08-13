@@ -1,7 +1,6 @@
 ---
 layout: class
 ---
-<h2>Posts related to: {{ page.title }}</h2>
 
 {% unless page.content == '' %}
   <p>{{ page.content }}</p>
@@ -23,7 +22,7 @@ layout: class
         </h3>
         {% endif %}
     </a>
-    <p class="post-meta">
+  <!--  <p class="post-meta">
       Posted by 
       {% if post.author %}
         {{ post.author }}
@@ -31,7 +30,7 @@ layout: class
         {{ site.title }}
       {% endif %} 
       on {{ post.date | date: "%B %-d, %Y" }}
-    </p>
+    </p> -->
 </div>
 <hr>
 {% endfor %}
