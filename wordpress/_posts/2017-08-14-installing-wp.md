@@ -8,11 +8,14 @@ title: Installing your first WordPress Site on the WPMMP server
 
 - Set up a local folder on your portable drive for your server files. Name it wpmmp.
 In this folder create a folder for our assignment. Call it portfolio.
-- Download WordPress and unzip it. Copy or move the files to the folder portfolio.
+- [Download WordPress](http://wordpress.org/download/) and unzip it. Copy or move the files to the folder portfolio.
 
 **Step 2: Create the Database and a User**
 
 - Log in to your cPanel.
+         - Go to https://wpmmp.bmcc.cuny.edu:2083/. Log in with your username and password:
+Username: your first name initial followed by the first 7 letters of your last name (or less if your last name is shorter than 7 letters). For example, if your name was John Smith your username would be jsmith.
+Password: your emplid, an 8-digit identification number, which you can find on CUNYfirst.
 - Click MySQL Database Wizard icon under the Databases section.
 - In Step 1. Create a Database, enter the database name and click Next Step. Recommended: use the suffix ‘_db’, such as ‘jsmith_db’.
 - In Step 2. Create Database Users enter the database user name and the password. Make sure to use a strong password. Click Create User. Recommended: use the the same username and password that you use to log in to the cPanel.
@@ -44,11 +47,11 @@ The password you chose for the WordPress username in Step 2.
         define('DB_HOST', 'mysqlsvr');
         DB_CHARSET 
 
-The database character set, normally should not be changed (see Editing wp-config.php).
+The database character set, normally should not be changed (see [Editing wp-config.php](https://codex.wordpress.org/Editing_wp-config.php)).
 
         DB_COLLATE 
 
-The database collation should normally be left blank (see Editing wp-config.php).
+The database collation should normally be left blank (see [Editing wp-config.php](https://codex.wordpress.org/Editing_wp-config.php)).
         
         TABLE_PREFIX
         
