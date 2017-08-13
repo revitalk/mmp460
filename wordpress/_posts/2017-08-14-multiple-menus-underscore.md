@@ -39,5 +39,5 @@ In order to use these menus in your theme we have to include them in our templat
 
         <?php wp_nav_menu( $menu_name ); ?>
 
-- For additional control over the menu code [read here]({{site.baseurl}}/mmp460/{% post_url 2017-08-14-menu-code %}).
+- For additional control over the menu code read here.
 
