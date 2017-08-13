@@ -23,8 +23,7 @@ In this folder create a folder for our assignment. Call it portfolio.
 
 **Step 3: Set up wp-config.php**
 
-- Return to where you extracted the WordPress package in Step 1 (the folder portfolio), rename the file wp-config-sample.php to wp-config.php, and open it in a text editor.
-- Enter your [database information](https://codex.wordpress.org/Editing_wp-config.php#Configure_Database_Settings) under the section labeled
+- Return to where you extracted the WordPress package in Step 1 (the folder portfolio), rename the file wp-config-sample.php to wp-config.php, and open it in a text editor. Enter your [database information](https://codex.wordpress.org/Editing_wp-config.php#Configure_Database_Settings) under the section labeled:
 
          // ** MySQL settings - You can get this info from your web host ** //
         DB_NAME 
@@ -62,7 +61,7 @@ By default, WordPress assigns the table prefix wp_ to its MySQL database tables,
 
 **Step 4: Upload the files**
 
-- [Use Filezilla to connect to your server account]({{site.baseurl}}{% post_url 2017-08-14-upload_files %}).
+- [Use Filezilla to connect to your server account]({{site.baseurl}}/mmp460/{% post_url 2017-08-14-upload_files %}).
 
  Be sure to specify the folder that you created in step 1 as your default local directory.
 Upload the folder portfolio to the folder public_html in the server.
