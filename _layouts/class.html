@@ -28,10 +28,6 @@
 </ul></nav>
     </section>
     
-    {% for category in site.categories %}
-    <li><a href="{{category.url}}"><strong>{{category|first}}</strong></a></li>
-{% endfor %}
-    
     <section class="main-content">
       <h2>{{ page.title | default:  }}</h2>
       {{ content }}
