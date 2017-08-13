@@ -1,6 +1,7 @@
 ---
 layout: class
 site: MMP 460 Multimedia Project Lab
+categories: wordpress underscore
 title: Responsive underscores theme
 ---
 Underscores comes with CSS for basic responsive behavior. It is built as a mobile-first site with all css styles outside of media query to be used for all viewports. There is one media query provided and all css unique to larger viewports  should be inside it. This is the way it looks without modifications:
