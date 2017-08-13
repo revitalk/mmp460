@@ -5,14 +5,14 @@ categories: wordpress
 title: Step-by-Step: Creating a Gallery Menu
 ---
 
-![gallerr menu]({{site.url}}/assets/gallery-menu.jpg)
+![gallerry menu]({{site.url}}/assets/gallery-menu.jpg)
 
 *In Photoshop*
 
 - Create the thumbnails. Include any text if it is part of the design.
 - Make sure to crop them to their final, and identical size.
 
-![gallerr menu]({{site.url}}/assets/gallery-url.jpg)
+![gallerry url]({{site.url}}/assets/gallery-url.jpg)
 
 In WordPress dashboard:gallery-url
 
