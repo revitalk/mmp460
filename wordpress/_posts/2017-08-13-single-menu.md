@@ -1,7 +1,7 @@
 ---
 layout: class
 site: MMP 460 Multimedia Project Lab
-categories: wordpress underscore
+categories: wordpress
 title: Single Menu Support
 ---
  
