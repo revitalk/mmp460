@@ -2,7 +2,7 @@
 layout: class
 site: MMP 460 Multimedia Project Lab
 categories: wordpress
-title: Step-by-Step- Creating a 'Gallery Menu'
+title: 'Gallery Menu'Step-by-Step
 ---
 
 ![gallerry menu]({{site.url}}/assets/gallery-menu.jpg)
