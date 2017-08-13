@@ -7,7 +7,7 @@ title: Gallery Menu Step-by-Step
 
 ![gallerry menu]({{site.url}}/assets/gallery-menu.jpg)
 
-*In Photoshop*
+**In Photoshop**
 
 - Create the thumbnails. Include any text if it is part of the design.
 - Make sure to crop them to their final, and identical size.
