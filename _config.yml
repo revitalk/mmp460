@@ -6,3 +6,4 @@ plugins:
    - jekyll-feed
 
 theme: jekyll-theme-cayman
+future: true
