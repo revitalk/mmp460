@@ -5,7 +5,7 @@ categories: wordpress
 title: Audio player in a sidebar- Step by Step
 ---
 
-The audio player will be placed it in a sidebar. If you are not using the existing sidebar in your theme you can use it for the audio player. If you are making other uses of the existing sidebar follow the steps here first to create a second sidebar.
+The audio player will be placed it in a sidebar. If you are not using the existing sidebar in your theme you can use it for the audio player. If you are making other uses of the existing sidebar follow the [steps here](sidebar-underscore.html) first to create a second sidebar.
 
 - Have a couple of audio files ready. Make sure that you choose files that are smaller than 8 MB, which is the limit for file size uploads to our server.
 - Upload the files to Media.
