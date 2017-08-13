@@ -4,6 +4,7 @@ site: MMP 460 Multimedia Project Lab
 categories: wordpress
 title: Installing your first WordPress Site on the WPMMP server
 ---
+
 **Step 1: Download and Extract**
 
 - Set up a local folder on your portable drive for your server files. Name it wpmmp.
