@@ -1,0 +1,15 @@
+---
+---
+
+@import "{{ site.theme }}";
+nav.site-header ul{
+  margin:0;
+}
+nav.site-header li{
+  display:inline-block; 
+  margin-left:0;
+  margin-right: 1em;
+}
+.page-header a{
+  color:#fff;
+}
