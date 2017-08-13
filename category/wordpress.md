@@ -1,5 +1,5 @@
 ---
-layout: class
+layout: category
 title: Wordpress
 category: wordpress
 ---
