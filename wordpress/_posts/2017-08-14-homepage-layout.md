@@ -6,7 +6,7 @@ title: Creating a home page with a slideshow and 3 columns (underscore theme)
 ---
 Follow the instructions to create a homepage that has the layout of this wireframe.
 
-![wireframe]({{ site.url }}/assets/wireframe-hp.png)
+![wireframe]({{site.url}}/assets/wireframe-hp.png)
 
 We will set up a dedicated template for the homepage that includes 4 LOOPs. the first one is the standard one that grabs whatever you type into the page in the Dashboard. The other three, each will display one post from one category. These instructions show code from the theme undescore.
 
