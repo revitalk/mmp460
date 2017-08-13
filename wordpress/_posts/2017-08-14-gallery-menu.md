@@ -5,14 +5,14 @@ categories: wordpress
 title: Gallery Menu Step-by-Step
 ---
 
-![gallerry menu]({{site.url}}/mmp460/assets/gallery-menu.jpg)
+![gallery menu]({{site.url}}/mmp460/assets/gallery-menu.jpg)
 
 **In Photoshop**
 
 - Create the thumbnails. Include any text if it is part of the design.
 - Make sure to crop them to their final, and identical size.
 
-![gallerry url]({{site.url}}/mmp460/assets/gallery-url.jpg)
+![gallery url]({{site.url}}/mmp460/assets/gallery-url.jpg)
 
 In WordPress dashboard:gallery-url
 
