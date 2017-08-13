@@ -2,7 +2,7 @@
 layout: class
 site: MMP 460 Multimedia Project Lab
 categories: wordpress
-title: 'Gallery Menu'Step-by-Step
+title: Gallery Menu Step-by-Step
 ---
 
 ![gallerry menu]({{site.url}}/assets/gallery-menu.jpg)
