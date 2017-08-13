@@ -12,4 +12,4 @@ Each of these pages is made of other template files that describe different part
 
 ![theme]({{site_url}}/mmp460/assets/wp-theme.gif)
 
-For a complete discussion of how WordPress themes work read: [The anatomy of a WordPress theme](http://yoast.com/wordpress-theme-anatomy/)
+For a complete discussion of how WordPress themes work read: [The anatomy of a WordPress theme](http://yoast.com/wordpress-theme-anatomy/).
