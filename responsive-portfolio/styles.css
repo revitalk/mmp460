@@ -1,0 +1,229 @@
+*{
+	margin:0;
+	padding:0;
+	font-weight: normal;
+	list-style-type: none;
+	text-decoration: none;
+}
+body{
+	font-family:"century gothic", Helvetica, Arial;
+	font-size:100%;
+	background-color: #a2c7a6;
+}
+#wrapper{
+	width:90%;
+	padding:3%;
+	margin:0 auto;
+	background-color: #fff;
+	overflow: auto;
+	border-top: 0.5em solid #537990;
+	border-bottom: 0.5em solid #3e9a79;
+}
+header{
+	margin-bottom:3em;
+}
+nav{
+	float:left;
+	width:20%;
+}
+
+#main{
+	float:left;
+	width:80%;
+}
+
+footer{
+	margin-top:4em;
+}
+
+p, h2, h3, li{		
+	color:#666;
+	line-height:2em;
+}
+
+p{
+	font-size: 1.2em;
+	margin:0.5em;
+	margin-bottom:1em;
+}
+
+a{
+	color:#6292b0;
+}
+
+header h1{
+	font-size:4em;
+	text-transform: uppercase;
+	color:#6292b0;
+	display:inline;
+}
+header h2{
+	text-transform: lowercase;
+	font-size: 2em;
+	line-height: 0.5em;
+	text-indent: 1.5em;
+	color:#3e9a79;
+	display:inline;
+}
+
+
+/* ************** HOMEPAGE ************************* */
+
+
+#homepage img{
+	display:block;
+	max-width: 100%;
+} 
+
+#homepage p{
+	color:#3e9a79;
+	}	
+
+/* ************** PORTFOLIO ************************* */
+
+#portfolio img{
+	margin: 0 1% 1% 0;
+}
+
+#portfolio section{
+	margin: 0.5em 0;
+}
+
+
+/* ******************** CONTACT FORM ********************************** */
+
+form {
+	width:90%;
+	padding:1em 2%;
+	margin-top: 0.5em;
+	border:solid 1px #999;
+	overflow:auto;
+	}
+	
+label , input[type="text"], input[type="email"], textarea{
+	width:69%;
+	margin-bottom:1em;
+	display:block;
+	float:left; 
+}
+label{
+	width:30%;
+}
+
+input[type="submit"]{
+	float:right;
+	width:5em;
+}
+label, input[type="submit"]{
+	clear:left;
+}
+
+/* ******************** MEDIA QUERIES ********************************** */
+
+/* iPad portrait and landscape----------- */
+@media only screen and (max-width : 1024px) {
+
+#wrapper{
+	width:70%;
+}
+
+header h1{
+		font-size: 3em;  /* ensures that the titles do not break into two lines */
+}
+header h2{
+	font-size: 1.5em; /* ensures that the titles do not break into two lines */
+}
+#portfolio{
+	max-width: 400px; /* ensures that the thumbnails are arranged in groups of threes  */
+}
+#portfolio img{
+	margin: 0 5% 5% 0; /* more margin space between thumbnails  */
+}
+}
+/* Smartphones and tablets smaller that iPad (portrait and landscape) ----------- */
+
+@media only screen and (max-width : 767px) {
+
+	nav, #main{
+	width: 100%;
+}
+	header{
+	margin-bottom:1em;
+}
+	header h1, header h2{
+	display: block;
+	font-size: 3em;
+	}
+	header h2{
+	font-size: 2em;
+	text-indent:0;
+}
+	nav{
+		background-color: #537990;
+		margin-bottom: 2px;
+		overflow: auto;
+	}
+	nav li{
+	float: left;
+	width:33%;
+	border-right: solid 1px #fff;
+}
+	nav li:last-child{
+	border-right: 0;
+}
+	nav a{
+		display:block;
+		color: #fff;
+	}
+	nav a:hover{
+		background-color: #a2c7a6;
+	}
+	nav li#currentPage {
+		background-color: #a2c7a6;
+	}
+
+	nav ul, h1, h2, footer, #portfolio{
+		text-align: center;
+	}
+	h3{		
+		text-align: left;
+	}
+	nav, #main, label, input, textarea, form, p{
+	float:none;
+	width: 94%;
+}
+
+
+	h2{
+	display: none; /* Hides page title. Instead relevant page link will highlight. */
+}
+#portfolio{
+	margin: 0 auto;
+}
+#portfolio{
+	max-width: 400px; /* ensures that the thumbnails are arranged in a threes  */
+}
+#portfolio img{
+	margin: 0 4% 4% 0; /* more margin space between thumbnails  */
+}
+footer{
+	margin-top:0;
+}
+
+}
+/* Smartphones only (portrait and landscape) ----------- */
+@media only screen and (max-width : 480px) {
+
+body{font-size: 0.8em;}
+
+	#wrapper{
+	width: 90%;
+	}
+p, h2, li{		
+	line-height:1.6em;
+}
+
+#portfolio img{
+	margin: 0 1% 1% 0; /* brings margin space between thumbnails back down  */
+}
+}
