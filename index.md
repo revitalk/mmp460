@@ -1,9 +1,9 @@
 ---
 layout: class-blog
-site: MMP 460 Multimedia Design
-title: Schedule
+site: MMP 460 Multimedia Project Lab
 ---
-{% for i in (1..15) %}<a href="#week-{{i}}">Week {{i}} </a>  {% endfor %}
 
-## Week 1
+{% for post in site.categories.class-notes %}
+ + [{{ post.title }}]({{ page.url }})
+{% endfor %}
 
