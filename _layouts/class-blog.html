@@ -33,13 +33,6 @@
     
     <section class="main-content">
       <h2>{{ page.title | default:  }}</h2>
-          <div class="my-posts">
-	{% for post in site.categories.class-notes %}
- + [{{ post.title }}]({{ page.url }})
-{% endfor %}
-	    </div>
-
-
       {{ content }}
 <nav class="class-nav">
 
