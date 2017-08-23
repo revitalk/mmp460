@@ -1,5 +1,5 @@
 ---
-layout: class
+layout: class-blog
 site: MMP 460 Multimedia Design
 title: Schedule
 ---
