@@ -6,8 +6,7 @@ title: Class Notes
 
 
 {% for post in site.categories.class-notes %}
- + [{{ post.title }}]({{ page.url }})
-  + {{ post.content }}
-
+ + <h3>[{{ post.title }}]({{ page.url }})</h3>
+  + <div>{{ post.content }}</div>
 {% endfor %}
 
