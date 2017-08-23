@@ -5,7 +5,9 @@ title: Class Notes
 ---
 
 
-	{% for post in site.categories.class-notes %}
+{% for post in site.categories.class-notes %}
  + [{{ post.title }}]({{ page.url }})
+  + {{ post.content }}
+
 {% endfor %}
 
