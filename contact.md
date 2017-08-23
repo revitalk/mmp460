@@ -1,6 +1,6 @@
 ---
 layout: class
-site: MMP 460 Multimedia Design
+site: MMP 460 Multimedia Project Lab
 title: Contact Information
 ---
 
