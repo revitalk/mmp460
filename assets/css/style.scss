@@ -13,3 +13,26 @@ nav.site-header li{
 .page-header a{
   color:#fff;
 }
+
+@media (min-width:64em){
+
+.cat{
+  float:right;
+  width:16rem;
+  position: -webkit-sticky;  // required for Safari
+  position: sticky;
+  top: 0; // required as well.
+  font-size:smaller;
+  background-color:#fff;
+
+}
+  .cat li{
+    list-style-type:none;
+  }
+    .cat li li{
+    list-style-type:disc;
+  }
+.content{
+  width:48rem;
+}
+}
