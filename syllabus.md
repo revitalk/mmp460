@@ -101,12 +101,13 @@ Below are the college’s general education learning outcomes, the outcomes that
 At BMCC, the maximum number of absences is limited to one more class hour than the contact hours as indicated in the BMCC college catalog.  For example, you may be enrolled in a four-hour class that meets four times a week. You are allowed five hours of absence, not five days.  In the case of excessive absence, the instructor has the option to lower the grade or assign an F or WU grade.
 
 <h3>Class Attendance Policy<h3>
-- 0-4 absences- no penalty
-- 5-7 absences- 1 letter grade reduction
-- 8 absences or above- automatic failure
-- Arriving late more than 5 min. is registered, and two of these count as an absence.
-- Arriving an hour or more late to class registers as an absence.
-
+<ul>
+<li>0-4 absences- no penalty</li>
+<li>5-7 absences- 1 letter grade reduction</li>
+<li>8 absences or above- automatic failure</li>
+<li>Arriving late more than 5 min. is registered, and two of these count as an absence.</li>
+<li>Arriving an hour or more late to class registers as an absence.</li>
+</ul>
 <h3>ACADEMIC ADJUSTMENTS FOR STUDENTS WITH DISABILITIES</h3>
 Students with disabilities who require reasonable accommodations or academic adjustments for this course must contact the Office of Services for Students with Disabilities.  BMCC is committed to providing equal access to all programs and curricula to all students.
 <h3>BMCC POLICY ON PLAGIARISM AND ACADEMIC INTEGRITY STATEMENT</h3>
