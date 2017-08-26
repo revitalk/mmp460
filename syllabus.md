@@ -60,7 +60,7 @@ MMP200 and MMP210 or MMA/ART 100
  	<li>Group Project - production</li>
  	<li>Group Project - presentation</li>
 </ul>
-<h3 id="attendance">COLLEGE ATTENDANCE POLICY</h3>
+<h3 name="attendance">COLLEGE ATTENDANCE POLICY</h3>
 At BMCC, the maximum number of absences is limited to one more class hour than the contact hours as indicated in the BMCC college catalog.  For example, you may be enrolled in a four-hour class that meets four times a week. You are allowed five hours of absence, not five days.  In the case of excessive absence, the instructor has the option to lower the grade or assign an F or WU grade.
 
 <h3>Class Attendance Policy</h3>
@@ -71,6 +71,7 @@ At BMCC, the maximum number of absences is limited to one more class hour than t
 <li>Arriving late more than 5 min. is registered, and two of these count as an absence.</li>
 <li>Arriving an hour or more late to class registers as an absence.</li>
 </ul>
+<hr>
 Below are the college’s general education learning outcomes, the outcomes that checked in the left-hand column indicate goals that will be covered and assessed in this course. (Check at least one.)
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody>
