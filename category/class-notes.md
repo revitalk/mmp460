@@ -1,5 +1,5 @@
 ---
 layout: category
-title: Wordpress
-category: class-notes
+title: Class Notes
+category: 'Class Notes'
 ---
