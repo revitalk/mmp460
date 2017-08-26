@@ -24,29 +24,29 @@ MMP200 and MMP210 or MMA/ART 100
 </tr>
 </tbody>
 </table>
-<h2>REQUIRED TEXT</h2>
+<h3>REQUIRED TEXT</h3>
 <ul>
  	<li><a href="http://www.amazon.com/Web-Designers-Guide-WordPress-Launch/dp/0321832817/ref=sr_1_1?ie=UTF8&amp;qid=1359045340&amp;sr=8-1&amp;keywords=web+designer+guide+to+wordpress">Web Designer's Guide to WordPress: Plan, Theme, Build, Launch by Jesse Friedman</a></li>
  	<li>I highly recommended that you have a good book about  HTML and CSS, including HTML5.</li>
 </ul>
-<h2>OTHER REQUIRED RESOURCES</h2>
+<h3>OTHER REQUIRED RESOURCES</h3>
 <ul>
  	<li>A professional Internet hosting account is required.</li>
  	<li>A USB drive.</li>
 </ul>
-<h2>USE OF TECHNOLOGY</h2>
+<h3>USE OF TECHNOLOGY</h3>
 <ul type="disc">
  	<li>Students will use computers and Adobe software to work on web design projects in class.</li>
  	<li>A class website is available on Blackboard</li>
 </ul>
-<h2>REQUIREMENTS &amp; EVALUATION OF STUDENTS</h2>
+<h3>REQUIREMENTS &amp; EVALUATION OF STUDENTS</h3>
 <ul>
  	<li>Exercises: 15%</li>
  	<li>Portfolio: 25%</li>
  	<li>Group Project: 50%</li>
  	<li>Class performance: 10%</li>
 </ul>
-<h2>OUTLINE OF TOPICS</h2>
+<h3>OUTLINE OF TOPICS</h3>
 <ul>
  	<li>Review of HTML and CSS principles and techniques</li>
  	<li>Introduction to WordPress blogging platform</li>
@@ -99,6 +99,14 @@ Below are the college’s general education learning outcomes, the outcomes that
 </table>
 <h3>COLLEGE ATTENDANCE POLICY</h3>
 At BMCC, the maximum number of absences is limited to one more class hour than the contact hours as indicated in the BMCC college catalog.  For example, you may be enrolled in a four-hour class that meets four times a week. You are allowed five hours of absence, not five days.  In the case of excessive absence, the instructor has the option to lower the grade or assign an F or WU grade.
+
+<h3>Class Attendance Policy<h3>
+- 0-4 absences- no penalty
+- 5-7 absences- 1 letter grade reduction
+- 8 absences or above- automatic failure
+- Arriving late more than 5 min. is registered, and two of these count as an absence.
+- Arriving an hour or more late to class registers as an absence.
+
 <h3>ACADEMIC ADJUSTMENTS FOR STUDENTS WITH DISABILITIES</h3>
 Students with disabilities who require reasonable accommodations or academic adjustments for this course must contact the Office of Services for Students with Disabilities.  BMCC is committed to providing equal access to all programs and curricula to all students.
 <h3>BMCC POLICY ON PLAGIARISM AND ACADEMIC INTEGRITY STATEMENT</h3>
