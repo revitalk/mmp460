@@ -25,6 +25,11 @@
     </section>
     <aside class="cat">
     <h3>Categories</h3>
+      {% for category in site.data.categories %}
+  {% if post.category == category.slug %}
+    {{ category.name }}
+  {% endif %}
+{% endfor %}
 {% for category in site.categories %}
     <a href="{{site.baseurl}}/category/{{ category[0] }}" style="text-decoration: none;">{% if category[0] == 'aws' %}{{ category[0] | upcase }}{% else %}{{ category[0] | capitalize }}{% endif %}</a><br />
 {% endfor %}
