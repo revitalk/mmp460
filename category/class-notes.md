@@ -1,5 +1,5 @@
 ---
 layout: category
 title: Class Notes
-category: 'Class Notes'
+category: 'class-notes'
 ---
