@@ -60,6 +60,17 @@ MMP200 and MMP210 or MMA/ART 100
  	<li>Group Project - production</li>
  	<li>Group Project - presentation</li>
 </ul>
+<h3>COLLEGE ATTENDANCE POLICY</h3>
+At BMCC, the maximum number of absences is limited to one more class hour than the contact hours as indicated in the BMCC college catalog.  For example, you may be enrolled in a four-hour class that meets four times a week. You are allowed five hours of absence, not five days.  In the case of excessive absence, the instructor has the option to lower the grade or assign an F or WU grade.
+
+<h3>Class Attendance Policy</h3>
+<ul>
+<li>0-4 absences- no penalty</li>
+<li>5-7 absences- 1 letter grade reduction</li>
+<li>8 absences or above- automatic failure</li>
+<li>Arriving late more than 5 min. is registered, and two of these count as an absence.</li>
+<li>Arriving an hour or more late to class registers as an absence.</li>
+</ul>
 Below are the college’s general education learning outcomes, the outcomes that checked in the left-hand column indicate goals that will be covered and assessed in this course. (Check at least one.)
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody>
@@ -97,17 +108,7 @@ Below are the college’s general education learning outcomes, the outcomes that
 </tr>
 </tbody>
 </table>
-<h3>COLLEGE ATTENDANCE POLICY</h3>
-At BMCC, the maximum number of absences is limited to one more class hour than the contact hours as indicated in the BMCC college catalog.  For example, you may be enrolled in a four-hour class that meets four times a week. You are allowed five hours of absence, not five days.  In the case of excessive absence, the instructor has the option to lower the grade or assign an F or WU grade.
 
-<h3>Class Attendance Policy<h3>
-<ul>
-<li>0-4 absences- no penalty</li>
-<li>5-7 absences- 1 letter grade reduction</li>
-<li>8 absences or above- automatic failure</li>
-<li>Arriving late more than 5 min. is registered, and two of these count as an absence.</li>
-<li>Arriving an hour or more late to class registers as an absence.</li>
-</ul>
 <h3>ACADEMIC ADJUSTMENTS FOR STUDENTS WITH DISABILITIES</h3>
 Students with disabilities who require reasonable accommodations or academic adjustments for this course must contact the Office of Services for Students with Disabilities.  BMCC is committed to providing equal access to all programs and curricula to all students.
 <h3>BMCC POLICY ON PLAGIARISM AND ACADEMIC INTEGRITY STATEMENT</h3>
