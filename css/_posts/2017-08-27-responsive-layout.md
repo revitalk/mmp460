@@ -1,6 +1,5 @@
 ---
 layout: class
-categories: css, responsive
 site: MMP 200 Multimedia Design
 title: CSS Responsive layout
 ---
