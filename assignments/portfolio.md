@@ -15,7 +15,7 @@ Your website must include the following items:
 
 ### The work process ###
 
-**Planning and Content Development**
+**STEP 1: planning and content development**
 
 1. **Consider the following questions**
   - What are your immediate professional goals? In other words, what kind of job or assignment do you hope this website will help you get?
@@ -34,11 +34,17 @@ Your website must include the following items:
   - a paragraph introducing yourself and your professional goals.
   - a short description for each of the projects in your portfolio.
   
-**Design the interface**
-In Photoshop, mockup the design for the homepage and gallery page for desktop and mobile. f
+---
 
-**HTML/CSS**
+**STEP 2: Design the interface**
+In Photoshop, mockup the design for the homepage and gallery page for desktop and mobile.
+
+---
+
+**STEP 3: HTML/CSS**
 Use standard-compliant, semantic html5 code + CSS. Test your site in multiple browsers.
+
+---
 
 ### Grading Guidelines ###
 
