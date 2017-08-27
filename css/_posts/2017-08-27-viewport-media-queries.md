@@ -1,7 +1,6 @@
 ---
 layout: class
 site: MMP 200 Multimedia Design
-categories: css, responsive
 title: Viewports and Media Queries
 ---
 The **viewport** is the visible part of the screen. Different devices have different viewport sizes. You can see many device viewports [listed here](http://viewportsizes.com/).
