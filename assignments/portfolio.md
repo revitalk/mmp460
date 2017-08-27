@@ -42,7 +42,10 @@ In Photoshop, mockup the design for the homepage and gallery page for desktop an
 ---
 
 **STEP 3: HTML/CSS**
-Use standard-compliant, semantic html5 code + CSS. Test your site in multiple browsers.
+- Use standard-compliant, semantic html5 code + CSS. 
+- Use relative units to create adaptive, flexible layout.
+- Use media queries to optimize your site's layout to at least two screen sizes: desktop and mobile.
+- Test your site in multiple browsers.
 
 ---
 
@@ -56,5 +59,5 @@ Your grade will be based on:
 - Writing must be clear, professional and free of errors.
 
 ### Submissions ###
-Publish your site in github pages and submit a URL
+Publish your site in github pages and submit a URL in Blackboard.
 
