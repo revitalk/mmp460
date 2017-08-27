@@ -1,6 +1,6 @@
 ---
 layout: category
 site: MMP 460 Multimedia Project Lab
-title: Underscore Theme
+title: Underscore WordPress Theme
 category: underscore
 ---
