@@ -1,7 +1,7 @@
 ---
 layout: class
 site: MMP 200 Multimedia Design
-title: CSS Responsive layout
+title: CSS Responsive Layout With Floats
 ---
 **Step 1**
 
