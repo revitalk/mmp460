@@ -13,9 +13,14 @@ nav.site-header li{
 .page-header a{
   color:#fff;
 }
+.site-footer{
+  clear:both;
+}
 
 @media (min-width:64em){
-
+.main-content{
+  padding: 2rem;
+  }
 .cat{
   float:right;
   width:16rem;
@@ -33,7 +38,7 @@ nav.site-header li{
     list-style-type:disc;
   }
 .content{
-  width:37rem;
+  width:45rem;
   float:left;
 }
 }
