@@ -5,5 +5,5 @@ plugins:
    - jekyll-sitemap
    - jekyll-feed
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-dinky
 future: true
