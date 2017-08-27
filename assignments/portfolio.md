@@ -43,6 +43,7 @@ In Photoshop, mockup the design for the homepage and gallery page for desktop an
 
 **STEP 3: HTML/CSS**
 - Use standard-compliant, semantic html5 code + CSS. 
+- Validate your HTML and CSS code.
 - Use relative units to create adaptive, flexible layout.
 - Use media queries to optimize your site's layout to at least two screen sizes: desktop and mobile.
 - Test your site in multiple browsers.
