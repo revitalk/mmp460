@@ -24,9 +24,23 @@
             <li class="download"><a class="buttons" href="{{ site.github.zip_url }}">Download ZIP</a></li>
             <li class="download"><a class="buttons" href="{{ site.github.tar_url }}">Download TAR</a></li>
           {% endif %}
-          <li><a class="buttons github" href="{{ site.github.repository_url }}">View On GitHub</a></li>
         </ul>
-
+        <nav class="site-header"><ul>
+<li><a href="{{ site.url }}{{site.baseurl}}">Class Notes</a></li>
+<li><a href="{{ site.url }}{{site.baseurl}}/syllabus">Syllabus</a></li>
+<li><a href="{{ site.url }}{{site.baseurl}}/contact">Contact</a></li>
+</ul></nav>
+         <aside class="cat">
+    <h3>Categories</h3>
+      {% for category in site.data.categories %}
+  {% if post.category == category.slug %}
+    {{ category.name }}
+  {% endif %}
+{% endfor %}
+{% for category in site.categories %}
+    <a href="{{site.baseurl}}/category/{{ category[0] }}" style="text-decoration: none;">{% if category[0] == 'aws' %}{{ category[0] | upcase }}{% else %}{{ category[0] | capitalize }}{% endif %}</a><br />
+{% endfor %}
+    </aside>    
         {% if site.github.is_project_page %}
           <p class="header">This project is maintained by <a class="header name" href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
