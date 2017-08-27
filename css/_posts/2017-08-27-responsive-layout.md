@@ -22,7 +22,9 @@ In css give the container div a width and align it inside the body. The followin
         
 **Step 2**
 
-Identify “rows” in your layout- these are elements, or groups of elements, that together take the full width of the page. In the example layout here: ![interface sketch]({{site.url}}/{{site.baseurl}}/css/festival-sketches-300x229.gif) the “rows” are:
+Identify “rows” in your layout- these are elements, or groups of elements, that together take the full width of the page. In the example layout here: 
+
+![interface sketch]({{site.url}}/{{site.baseurl}}/css/festival-sketches.gif) the “rows” are:
 
 - All the elements of the header form one row
 - The nav bar
