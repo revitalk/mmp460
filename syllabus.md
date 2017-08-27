@@ -41,8 +41,8 @@ MMP200 and MMP210 or MMA/ART 100
 </ul>
 <h3>REQUIREMENTS &amp; EVALUATION OF STUDENTS</h3>
 <ul>
- 	<li>Exercises: 15%</li>
- 	<li>Portfolio: 25%</li>
+ 	<li>HTML/CSS Portfolio: 25%</li>
+ 	<li>Wordpress Portfolio: 15%</li>
  	<li>Group Project: 50%</li>
  	<li>Class performance: 10%</li>
 </ul>
