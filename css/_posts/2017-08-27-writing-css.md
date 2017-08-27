@@ -7,7 +7,7 @@ title: How to Write CSS
 **Anatomy of a CSS Rule**
 
 
-![CSS rule](cssrule1.png)
+![CSS rule]({{site.url}}/{{site.baseurl}}/css/cssrule1.png)
 
 
 **Grouping selectors**
