@@ -23,13 +23,13 @@ nav.site-header li{
   }
 .cat{
   float:right;
-  width:16rem;
+  width:10rem;
   position: -webkit-sticky;  // required for Safari
   position: sticky;
   top: 0; // required as well.
   font-size:smaller;
   background-color:#fff;
-
+text-align:right;
 }
   .cat li{
     list-style-type:none;
