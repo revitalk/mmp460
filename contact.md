@@ -4,7 +4,7 @@ site: MMP 460 Multimedia Project Lab
 title: Contact Information
 ---
 
-Email me at profkaisar@gmail.com. Please do not forget to sign the email with your full name.
+Email me at profkaisar at gmail dot com. Please include your full name.
 
 I am available during office hours @ S622F.
 
