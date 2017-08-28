@@ -6,7 +6,7 @@
 	max-width: 1000px;
 	margin:0 auto;
 }
-.row footer{
+.row, footer{
 	clear:both;
 	margin: 1em 0;
 	overflow:auto;
