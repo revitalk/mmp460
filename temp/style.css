@@ -38,11 +38,11 @@ nav li:last-child{
 	width:100%;
 }
 .caption{
-	background-color: rgba(0, 0, 0, 0.5)
+	background-color: rgba(0, 0, 0, 0.5);
 	color:#fff;
 	padding:5px;
 	position: absolute;
-	bottom:4;
+	bottom:4px;
 	width:100%;
 }
 .caption li{
