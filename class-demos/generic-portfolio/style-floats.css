@@ -52,7 +52,7 @@ nav li:last-child{
 	background-color: rgba(0, 0, 0, 0.5);
 	color:#fff;
 	position:absolute;
-	bottom:4; /* zero from the bottom of the containing div */
+	bottom:4px; /* 4px from the bottom of the containing div */
 	width:100%;
 }
 
