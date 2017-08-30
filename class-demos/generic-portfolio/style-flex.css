@@ -30,7 +30,7 @@ nav li:last-child{
 	margin-right:0;
 }
 .col{
-      flex: 1 1 0;
+      flex: 1 1 50%;
       margin-right:4%;
       margin-bottom:4%;
       position:relative;
