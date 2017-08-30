@@ -13,6 +13,7 @@ html, body{
 }
 .row{
       display:flex;
+	flex-direction:row;
     }
     header, nav{
             flex: 1 1 0;
@@ -53,3 +54,8 @@ nav li:last-child{
       padding:3px;
       list-style-type: none;
      }
+
+@media(max-width:32em){
+	.row{
+	flex-direction:column;
+    }
