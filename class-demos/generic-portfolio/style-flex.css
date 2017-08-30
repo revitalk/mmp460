@@ -18,7 +18,8 @@ html, body{
             flex: 1 1 0;
     }
 nav{
-	text-align:center;
+	text-align:right;
+}
 nav li{
   display:inline-block;
   margin-right:0 1em;
