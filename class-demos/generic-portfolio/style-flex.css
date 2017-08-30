@@ -6,12 +6,10 @@
 html, body{
 	height: 100%;
 }
-body {
-	display:flex;
-	justify-content: center;
-}
+
 #container{
 	max-width:1000px;
+	margin:0 auto;
 }
 .row{
       display:flex;
@@ -19,6 +17,8 @@ body {
     header, nav{
             flex: 1 1 0;
     }
+nav{
+	text-align:center;
 nav li{
   display:inline-block;
   margin-right:0 1em;
