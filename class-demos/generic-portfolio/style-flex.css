@@ -19,6 +19,7 @@ html, body{
     }
 nav{
 	text-align:right;
+	align-self:center;
 }
 nav li{
   display:inline-block;
