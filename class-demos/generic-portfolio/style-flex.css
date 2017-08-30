@@ -12,11 +12,11 @@ html, body{
 	margin:0 auto;
 }
 .row{
-      display:flex;
-	flex-direction:row;
+     display:flex;
+	flex-direction:column;
     }
-    header, nav{
-            flex: 1 1 50%;
+header, nav{
+    flex: 1 1 50%;
     }
 nav{
 	text-align:right;
@@ -31,13 +31,10 @@ nav li:last-child{
 }
 .col{
       flex: 1 1 50%;
-      margin-right:4%;
-      margin-bottom:4%;
       position:relative;
-    }
+      margin:4%;
+      	margin-bottom:4%;
 
-.col:last-child{
-      margin-right: 0;
     }
 
 .responsive-img{
@@ -55,10 +52,15 @@ nav li:last-child{
       list-style-type: none;
      }
 
-@media(max-width:32em){
+@media(min-width:480px){
+	
 	.row{
-	flex-direction:column;
+	flex-direction:row;
     }
-	.col, .col:last-child{
-      margin: 4%;
+    .col{
+    	margin-left:0;
     }
+	.col:last-child{
+      margin-right: 0;
+    }
+}
