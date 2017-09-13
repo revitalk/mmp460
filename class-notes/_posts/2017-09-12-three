@@ -1,0 +1,22 @@
+---
+layout: class
+title:  Week 3
+category: class-notes
+---
+** WordPress Content Management **
+
+- wordpress.com vs. wordpress.org
+- [Anatomy of a WordPress site](http://revitalk.com/mmp460/wordpress/2017/08/13/wp-site.html)
+
+- Exploring WP Dashboard:
+
+  - Settings
+  - Posts
+  - Categories
+  - Tags (read about Categories vs. Tags)
+  - Pages
+  - Media
+  - Links
+  - Themes
+  - Widgets (sidebar)
+  - Menus
