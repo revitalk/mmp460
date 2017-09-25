@@ -1,0 +1,27 @@
+/* 
+Theme Name: Portfolio
+Author: Revital Kaisar
+*/
+
+nav li{
+    display:inline-block;
+    margin:1em;
+}
+
+.container{
+    max-width:960px;
+    margin:0 auto;
+}
+
+.site-header{
+    padding:1em;
+}
+
+.main-menu{
+    background-color: maroon;
+}
+
+.main-menu a{
+    color:#fff;
+}
+
