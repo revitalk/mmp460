@@ -1,6 +1,6 @@
-            <nav><?php wp_nav_menu( array( 'theme_location' => 'footer-menu' ) ); ?></nav>
+              <footer> <nav><?php wp_nav_menu( array( 'theme_location' => 'footer-menu' ) ); ?></nav>
 
-            <footer> &copy; 2017 Revital Kaisar | Web Design and Development</footer>
+          <p>&copy; 2017 Revital Kaisar | Web Design and Development</p></footer>
         </div>
         
          <?php wp_footer(); ?>

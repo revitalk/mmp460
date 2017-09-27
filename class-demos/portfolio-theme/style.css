@@ -25,3 +25,22 @@ nav li{
     color:#fff;
 }
 
+.sidebar{
+    float:right;
+    width:20%;
+}
+
+.content-home{
+    float:left;
+    width:80%;
+}
+
+footer{
+    clear:both;
+}
+
+.content-home img{
+    max-width:100%;
+}
+}
+}
