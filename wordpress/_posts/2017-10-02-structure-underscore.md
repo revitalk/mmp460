@@ -1,5 +1,9 @@
-Structure of an underscore page
-
+---
+layout: class
+site: MMP 460 Multimedia Project Lab
+categories: wordpress underscore
+title: HTML Structure of an underscore template
+---
 
 #page 
     header
