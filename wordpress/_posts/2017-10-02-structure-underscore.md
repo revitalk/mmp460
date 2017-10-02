@@ -5,8 +5,8 @@ categories: wordpress underscore
 title: HTML Structure of an underscore template
 ---
 
-#page 
-        header
+page 
+        > header
         >#site-branding
         >nav#site-navigation
         > #content
