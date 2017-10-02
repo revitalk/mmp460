@@ -14,5 +14,5 @@ title: HTML Structure of an underscore template
   - #content .site-content
     - #primary
       - main #main .site-main
-    - $secondary (sidebar)
+    - #secondary .widget-area
   - footer
