@@ -5,7 +5,7 @@ categories: wordpress underscore
 title: HTML Structure of an underscore template
 ---
 
-    <body class="home page-template-default page page-id-10">
+    <body class="--">
       <div id="page" class="site">
         <header id="masthead" class="site-header">
           <div class="site-branding">
