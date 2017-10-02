@@ -13,5 +13,6 @@ title: HTML Structure of an underscore template
     - nav #site-navigation .main-navigation
   - #content .site-content
     - #primary
+      - main #main .site-main
     - $secondary (sidebar)
   - footer
