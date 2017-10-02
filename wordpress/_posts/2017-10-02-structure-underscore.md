@@ -7,12 +7,12 @@ title: HTML Structure of an underscore template
 
 - #page .site
   - header #masthead".site-header
-    - #site-branding
-          - .site-title
-          - .site-description
-    - nav #site-navigation .main-navigation
+      - #site-branding
+            - .site-title
+            - .site-description
+      - nav #site-navigation .main-navigation
   - #content .site-content
-    - #primary
-          - main #main .site-main
-    - #secondary .widget-area
+      - #primary
+            - main #main .site-main
+      - #secondary .widget-area
   - footer
