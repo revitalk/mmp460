@@ -5,11 +5,11 @@ categories: wordpress underscore
 title: HTML Structure of an underscore template
 ---
 
-#page 
- > header
- > #site-branding
- > nav#site-navigation
-        > #content
-        > #primary
-        > $secondary (sidebar)
-        > footer
+- #page 
+ - header
+  - #site-branding
+  - nav#site-navigation
+ - #content
+ - #primary
+ - $secondary (sidebar)
+ - footer
