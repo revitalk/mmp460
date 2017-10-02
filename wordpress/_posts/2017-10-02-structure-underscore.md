@@ -6,10 +6,10 @@ title: HTML Structure of an underscore template
 ---
 
 #page 
-        > header
+        header
         > #site-branding
-                > nav#site-navigation
+        > nav#site-navigation
         > #content
-            > #primary
-            > $secondary (sidebar)
+        > #primary
+        > $secondary (sidebar)
         > footer
