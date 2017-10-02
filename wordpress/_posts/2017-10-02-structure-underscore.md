@@ -5,15 +5,30 @@ categories: wordpress underscore
 title: HTML Structure of an underscore template
 ---
 
-- #page .site
-
-  - header #masthead".site-header
-      - #site-branding
-            - .site-title
-            - .site-description
-      - nav #site-navigation .main-navigation
-  - #content .site-content
-      - #primary
-            - main #main .site-main
-      - #secondary .widget-area
-  - footer
+    <body class="home page-template-default page page-id-10">
+      <div id="page" class="site">
+        <header id="masthead" class="site-header">
+          <div class="site-branding">
+          ---
+          </div><!-- .site-branding -->
+          <nav id="site-navigation" class="main-navigation">
+          ----
+          </nav><!-- #site-navigation -->
+        </header><!-- #masthead -->
+        <div id="content" class="site-content">
+          <div id="primary" class="content-area">
+            <main id="main" class="site-main">
+            ----
+            </main><!-- #main -->
+          </div><!-- #primary -->
+          <aside id="secondary" class="widget-area">
+          ----
+          </aside><!-- #secondary -->
+        </div><!-- #content -->
+        <footer id="colophon" class="site-footer">
+          <div class="site-info">
+          ----
+          </div><!-- .site-info -->
+        </footer><!-- #colophon -->
+      </div><!-- #page -->
+    </body>
