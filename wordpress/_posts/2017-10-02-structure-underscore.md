@@ -6,6 +6,7 @@ title: HTML Structure of an underscore template
 ---
 
 - #page .site
+
   - header #masthead".site-header
       - #site-branding
             - .site-title
