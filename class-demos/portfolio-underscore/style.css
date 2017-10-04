@@ -860,11 +860,4 @@ object {
 #news{
     margin-right:1em;
 }
-#post-image{
-    height:200px;
-    overflow-y: hidden;
-}
 
-#post-image img{
-    width:100%;
-}
