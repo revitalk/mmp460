@@ -24,9 +24,9 @@ In footer.php add the following lines just before the closing of the body:
               // Register Custom Navigation Walker
               require_once('class-wp-bootstrap-navwalker.php');
         
-  - Add menu to header.php: delete the existing menu code from header.php and paste the following code wherever you want the menu to appear (either above the titles or below them):
+    - Add menu to header.php: delete the existing menu code from header.php and paste the following code wherever you want the menu to appear (either above the titles or below them). Change [bootstrap classes](https://getbootstrap.com/docs/4.0/components/navbar/) as you wish:
   
-        	<nav class="navbar fixed-top navbar-expand-sm navbar-light bg-light">
+        	<nav class="navbar navbar-expand-sm navbar-light bg-light">
             <a class="navbar-brand" href="#">Navbar</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-         controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
               <span class="navbar-toggler-icon"></span>
