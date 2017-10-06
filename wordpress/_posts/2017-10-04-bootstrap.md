@@ -17,12 +17,12 @@ In footer.php add the following lines just before the closing of the body:
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
 
-5. Configuring the menu:
+3. **Configuring the menu**
   - Add walker file to theme. Download or copy the walker file to your theme directory: https://github.com/wp-bootstrap/wp-bootstrap-navwalker/blob/v4/class-wp-bootstrap-navwalker.php
   - Register walker in functions.php: add the following lines at the end of functions.php:
   
-        // Register Custom Navigation Walker
-        require_once('class-wp-bootstrap-navwalker.php');
+          // Register Custom Navigation Walker
+          require_once('class-wp-bootstrap-navwalker.php');
         
   - Add menu to header.php: delete the existing menu code from header.php and paste the following code wherever you want the menu to appear (either above the titles or below them):
   
@@ -34,7 +34,7 @@ In footer.php add the following lines just before the closing of the body:
           <?php
             wp_nav_menu( array(
             'theme_location'	=> 'primary',
-            'depth'				    => 2,
+            'depth'				    =>  2,
             'container'			  => 'div',
             'container_class'	=> 'collapse navbar-collapse',
             'container_id'		=> 'navbarSupportedContent',
