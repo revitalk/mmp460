@@ -2,7 +2,7 @@
 layout: class
 site: MMP 460 Multimedia Project Lab
 categories: wordpress underscore
-title: Adding Bootstrap Support to Your Underscore Theme
+title: Adding Bootstrap support to your Underscore theme
 ---
 1. **Link the Bootstrap stylesheet**
 In style.css add the following line above the existing css code (but after the initial comment): 
@@ -26,7 +26,7 @@ In footer.php add the following lines just before the closing of the body:
         
     - Add menu to header.php: delete the existing menu code from header.php and paste the following code wherever you want the menu to appear (either above the titles or below them). Change [bootstrap classes](https://getbootstrap.com/docs/4.0/components/navbar/) as you wish:
   
-        	<nav class="navbar navbar-expand-sm navbar-light bg-light">
+        	  <nav class="navbar navbar-expand-sm navbar-light bg-light">
             <a class="navbar-brand" href="#">Navbar</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-         controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
               <span class="navbar-toggler-icon"></span>
@@ -34,7 +34,7 @@ In footer.php add the following lines just before the closing of the body:
           <?php
             wp_nav_menu( array(
             'theme_location'	=> 'primary',
-            'depth'				    =>  2,
+            'depth'	=>  2,
             'container'			  => 'div',
             'container_class'	=> 'collapse navbar-collapse',
             'container_id'		=> 'navbarSupportedContent',
