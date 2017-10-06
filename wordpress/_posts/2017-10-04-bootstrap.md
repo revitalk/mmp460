@@ -37,10 +37,10 @@ In footer.php add the following lines just before the closing of the body:
               'depth'				=> 2,
               'container'			=> 'div',
               'container_class'	=> 'collapse navbar-collapse',
-              'container_id'		=> 'navbarSupportedContent',
+              'container_id'	=> 'navbarSupportedContent',
               'menu_class'		=> 'navbar-nav mr-auto',
-              'fallback_cb'		=> 'WP_Bootstrap_Navwalker::fallback',
-              'walker'			=> new WP_Bootstrap_Navwalker())
+              'fallback_cb'   => 'WP_Bootstrap_Navwalker::fallback',
+              'walker'        => new WP_Bootstrap_Navwalker())
               );
             ?>           
             </nav><!-- #site-navigation -->
