@@ -18,11 +18,11 @@ In footer.php add the following lines just before the closing of the body:
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
 
 3. **Configuring the menu**
-  - Add walker file to theme. Download or copy the walker file to your theme directory: https://github.com/wp-bootstrap/wp-bootstrap-navwalker/blob/v4/class-wp-bootstrap-navwalker.php
-  - Register walker in functions.php: add the following lines at the end of functions.php:
+  - Add walker file to theme. Download or copy the [walker file](https://github.com/wp-bootstrap/wp-bootstrap-navwalker/blob/v4/class-wp-bootstrap-navwalker.php) to your theme directory.
+  - Register the walker in functions.php: add the following lines at the end of functions.php:
   
-          // Register Custom Navigation Walker
-          require_once('class-wp-bootstrap-navwalker.php');
+            // Register Custom Navigation Walker
+            require_once('class-wp-bootstrap-navwalker.php');
         
   - Add menu to header.php: delete the existing menu code from header.php and paste the following code wherever you want the menu to appear (either above the titles or below them):
   
