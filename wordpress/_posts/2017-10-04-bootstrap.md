@@ -33,8 +33,8 @@ In footer.php add the following lines just before the closing of the body:
             </button>
            <?php
             wp_nav_menu( array(
-                'theme_location'	=> 'primary',
-                'depth'				=> 2,
+                'theme_location'	  => 'primary',
+                'depth'		=> 2,
               'container'			=> 'div',
               'container_class'	=> 'collapse navbar-collapse',
               'container_id'		=> 'navbarSupportedContent',
