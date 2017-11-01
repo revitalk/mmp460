@@ -4,7 +4,7 @@ site: MMP 460 Multimedia Project Lab
 categories: wordpress
 title: Custom Page templates
 ---
-Some of the pages may require a diffrent layout than the one prescribe in page.php. You can create custom templates for individual pages easily by:
+Some of the pages may require a diffrent layout than the one prescribed in page.php. You can create custom templates for individual pages easily by:
 
 - Duplicate page.php
 - Rename it page-yourname.php  (for example page-roots.php)
