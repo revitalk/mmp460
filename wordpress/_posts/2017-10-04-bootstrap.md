@@ -46,5 +46,5 @@ To configure the navigation bar, we will implement a [WordPress walker class](ht
               'walker'        => new WP_Bootstrap_Navwalker())
               );
             ?>           
-            </nav><!-- #site-navigation -->
+            </nav>
 
