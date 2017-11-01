@@ -2,7 +2,7 @@
 layout: class
 site: MMP 460 Multimedia Project Lab
 categories: wordpress
-title: Custom Post templates
+title: Custom Post Templates
 ---
 To create a custom template for posts:
 
