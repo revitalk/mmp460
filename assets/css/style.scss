@@ -3,4 +3,9 @@
 
 @import "{{ site.theme }}";
 
-header li.blue {background-color:#91AFC9 !important;}
+header li.blue {
+background: -webkit-linear-gradient(top, #91AFC9 0%, ##495F72 100%);
+    background: -o-linear-gradient(top, #91AFC9 0%, ##495F72 100%);
+    background: -ms-linear-gradient(top, #91AFC9 0%, ##495F72 100%);
+    background: linear-gradient(top, #91AFC9 0%, ##495F72 100%);
+}
