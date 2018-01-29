@@ -30,7 +30,6 @@
         <nav class="site-header"><ul>
 <!--<li><a href="{{ site.url }}{{site.baseurl}}">Class Notes</a></li>-->
 <li class="blue"><a href="{{ site.url }}{{site.baseurl}}/syllabus">Syllabus</a></li>
-<li class="blue"><a href="{{ site.url }}{{site.baseurl}}/contact">Contact</a></li>
 <li><a href="{{ site.url }}{{site.baseurl}}/category/html">HTML</a></li>
 <li><a href="{{ site.url }}{{site.baseurl}}/category/css">CSS</a></li>
 <li><a href="{{ site.url }}{{site.baseurl}}/category/bootstrap">Bootstrap</a></li>          
@@ -59,6 +58,8 @@
         {% if site.github.is_user_page %}
           <ul>
             <li><a class="buttons github" href="{{ site.github.owner_url }}">GitHub Profile</a></li>
+            <li><a href="{{ site.url }}{{site.baseurl}}/contact">Contact</a></li>
+
           </ul>
         {% endif %}
       </header>
