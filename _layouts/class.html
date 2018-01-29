@@ -26,14 +26,19 @@
           {% endif %}
         </ul>
         <nav class="site-header"><ul>
-<li><a href="{{ site.url }}{{site.baseurl}}">Class Notes</a></li>
+<!--<li><a href="{{ site.url }}{{site.baseurl}}">Class Notes</a></li>-->
 <li><a href="{{ site.url }}{{site.baseurl}}/syllabus">Syllabus</a></li>
+<li><a href="{{ site.url }}{{site.baseurl}}/category/html">HTML</a></li>
+<li><a href="{{ site.url }}{{site.baseurl}}/category/css">CSS</a></li>
+<li><a href="{{ site.url }}{{site.baseurl}}/category/bootstrap">Bootstrap</a></li>          
+<li><a href="{{ site.url }}{{site.baseurl}}/category/wordpress">WordPress</a></li>
+<li><a href="{{ site.url }}{{site.baseurl}}/category/underscore">Underscore</a></li>          
 <li><a href="{{ site.url }}{{site.baseurl}}/contact">Contact</a></li>
 <li><a href="https://github.com/revitalk/mmp460/tree/master/class-demos">Class Demo Files</a></li>
 </ul></nav>
         <div><a href="https://mmp460-fall17.slack.com"><img style="border:0; padding:0; margin:0" src="{{ site.url }}{{site.baseurl}}/assets/slack_monochrome_white-101x47.png" alt="slack"></a></div>
          <hr>
-        <div class="cat">
+   <!--     <div class="cat">
       {% for category in site.data.categories %}
   {% if post.category == category.slug %}
     {{ category.name }}
@@ -42,7 +47,7 @@
 {% for category in site.categories %}
     <a href="{{site.baseurl}}/category/{{ category[0] }}" style="text-decoration: none;">{% if category[0] == 'aws' %}{{ category[0] | upcase }}{% else %}{{ category[0] | capitalize }}{% endif %}</a><br />
 {% endfor %}
-    </div>    
+    </div>    -->
         {% if site.github.is_project_page %}
          <!-- <p class="header">This project is maintained by <a class="header name" href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p> -->
         {% endif %}
