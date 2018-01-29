@@ -53,12 +53,13 @@
     </div>    -->
         {% if site.github.is_project_page %}
          <!-- <p class="header">This project is maintained by <a class="header name" href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p> -->
+                    <li><a href="{{ site.url }}{{site.baseurl}}/contact">Contact</a></li>
+
         {% endif %}
 
         {% if site.github.is_user_page %}
           <ul>
             <li><a class="buttons github" href="{{ site.github.owner_url }}">GitHub Profile</a></li>
-            <li><a href="{{ site.url }}{{site.baseurl}}/contact">Contact</a></li>
 
           </ul>
         {% endif %}
