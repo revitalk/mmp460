@@ -61,10 +61,10 @@ In Photoshop, mockup the design for the homepage and gallery page for desktop an
 Your grade will be based on:
 
 - 10% Timely submission
+- 10% wireframes: must meet all requirements listed above AND display a clear scheme to organize your work
 - 35% Quality of code: your site must have error-free, standard-compliant, semantic HTML and CSS. Validate your code!
 - 35% Design: your portfolio may be the first impression that you make on a prospective employer. Find creative ways to demonstrate your skills.
-- 5% Organization: the way you organize your work should help your target audience find it!
-- 15% Writing must be clear, professional and free of errors.
+- 10% Writing must be clear, professional and free of errors.
 
 
 
