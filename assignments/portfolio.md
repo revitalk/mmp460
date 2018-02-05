@@ -27,13 +27,14 @@ Your website must include the following items:
   - Decide how to organize your work on the site. For example, by type (websites, print, paintings, drawings etc.), by skill (design, development), by software (Photoshop, Illustrator, Flash) or as case studies.
   - Decide how to organize the site’s content. For example, what content you will have on the homepage? where will be your contact information? (in a separate page? on the homepage? on every page?)
   - Write down links’s labels and the titles of the pages.
-  - Draw a sitemap (in a flowchart format) that shows your site’s organization.
 
 3. **Write**
   - your resume, if you haven’t done it already.
   - a paragraph introducing yourself and your professional goals.
   - a short description for each of the projects in your portfolio.
-  
+
+**Submission:** Draw a wireframe for every key page of your website. It must include the homepage, about page, portfolio page (if different than the homepage), and the page, or state, after one of your work was selected. Draw one additional wireframe for a mobile version of the homepage.
+
 ---
 
 **STEP 2: Design the interface**
@@ -43,6 +44,7 @@ In Photoshop, mockup the design for the homepage and gallery page for desktop an
 
 **STEP 3: HTML/CSS**
 - Use standard-compliant, semantic html5 code + CSS. 
+- The use of Bootstrap is optional
 - Validate your HTML and CSS code.
 - Use relative units to create adaptive, flexible layout.
 - Use media queries to optimize your site's layout to at least two screen sizes: desktop and mobile.
@@ -50,15 +52,19 @@ In Photoshop, mockup the design for the homepage and gallery page for desktop an
 
 ---
 
+### Submissions ###
+- Wireframes (see above)
+- Publish your site in github pages and submit a URL.
+
 ### Grading Guidelines ###
 
 Your grade will be based on:
 
-- Quality of code: your site must have error-free, standard-compliant, semantic HTML and CSS. Validate your code!
-- Creativity: your portfolio may be the first impression that you make on a prospective employer. Find creative ways to assert your skills.
-- Organization: the way you organize your work should help your target audience find it!
-- Writing must be clear, professional and free of errors.
+- 10% Timely submission
+- 35% Quality of code: your site must have error-free, standard-compliant, semantic HTML and CSS. Validate your code!
+- 35% Design: your portfolio may be the first impression that you make on a prospective employer. Find creative ways to demonstrate your skills.
+- 5% Organization: the way you organize your work should help your target audience find it!
+- 15% Writing must be clear, professional and free of errors.
 
-### Submissions ###
-Publish your site in github pages and submit a URL in Blackboard.
+
 
