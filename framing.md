@@ -16,6 +16,6 @@ Web page takes a portion of the viewport's space.
 
 ### Page elements should be placed in relation to the page's frame
 
-In the illustrations above elements are aligned to create a rectange that is of the same proporion of the page's frame. In the illustration below, the placement of page elements in relation to their frame is inconsistent, creating a disorganized page.
+In the illustrations above elements are aligned to create an invisible rectange that is of the same proporion as the page's frame. In the illustration below, the placement of page elements in relation to the page's frame is inconsistent, creating a disorganized page.
 
 ![no alignment]({{site.url}}/mmp460/assets/no-alignment.gif)
