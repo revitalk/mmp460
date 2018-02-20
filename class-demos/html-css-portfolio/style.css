@@ -5,6 +5,7 @@
 }
 
 body{
+    font-family: arial;
 }
 
 
@@ -19,6 +20,8 @@ header{
     display:flex;
     flex-direction:column;
     margin: 1em 0;
+    background-color:cadetblue;
+    padding:1em;
 
 }
 
@@ -30,6 +33,13 @@ nav li{
     border-bottom: solid 1px black;
     padding:5px 0;
     text-align:center;
+    list-style-type: none;
+
+}
+
+nav li a{
+    color:white;
+    text-decoration: none;
 }
 
 h1{flex:1 0 auto;}
@@ -64,6 +74,9 @@ h1{flex:1 0 auto;}
      padding:0.5em 0;
      width:100%;
  }
+footer{
+    text-align: center;
+}
 
 @media (min-width:768px){
 
