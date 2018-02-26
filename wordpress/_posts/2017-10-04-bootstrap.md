@@ -21,7 +21,7 @@ In footer.php add the following lines just before the closing of the body:
 
 4. **Configuring the menu**
 To configure the navigation bar, we will implement a [WordPress walker class](https://codex.wordpress.org/Class_Reference/Walker) created by William Patton.
-  - Add walker file to theme. Download or copy [class-wp-bootstrap-navwalker.php](https://github.com/wp-bootstrap/wp-bootstrap-navwalker/blob/v4/class-wp-bootstrap-navwalker.php) to your theme directory.
+  - Add walker file to theme. Download or copy [class-wp-bootstrap-navwalker.php](https://github.com/wp-bootstrap/wp-bootstrap-navwalker/blob/master/class-wp-bootstrap-navwalker.php) to your theme directory.
   - Register the walker in functions.php: add the following lines at the end of functions.php:
   
               // Register Custom Navigation Walker
