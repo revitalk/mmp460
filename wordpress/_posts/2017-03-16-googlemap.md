@@ -39,5 +39,6 @@ title: Google Map in WordPress
              fetch('../markers.json')
       
     - Add your own key.	
-    - Change the center locaiton and the zoom factor. 
-1. change the data in markers.json
+    - Change the center location and the zoom factor. 
+1. Change the data in markers.json
+1. In the dashboard, create a new page and choose the template 'Map'.
