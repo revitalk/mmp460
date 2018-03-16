@@ -29,17 +29,15 @@ title: Google Map in WordPress
       <script src="<?php echo get_template_directory_uri(); ?>/js/script.js" defer></script>
 
 - Open script.js make the following changes:
-  Change:
+  
+  - Fix the link to the Json file. Change:
   
       fetch('markers.json') 
   
-  to:
+    to:
   
       fetch('../markers.json')
       
-Add your own key.	
-Change the 
-center: {lat: -34.397, lng: 150.644},
-to reflect your preferred centered location
-Change the zoom factor if needed
-change the data in markers.json
+  - Add your own key.	
+  - Change the center locaiton and the zoom factor. 
+- change the data in markers.json
