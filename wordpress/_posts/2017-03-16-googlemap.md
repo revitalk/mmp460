@@ -12,11 +12,11 @@ Copy the [markers.json](https://github.com/revitalk/google-maps-api-template) an
 - Create a custom template for your map page: 
   - Duplicate page.php and rename it page-map.php. 
   - Add a php comment at the top of the page:
-          <?php
-          /*
-          Template Name: Map
-          */
-          ?>
+      <?php
+      /*
+      Template Name: Map
+      */
+      ?>
 
 Add a div in page-map.php:
 <div id="map" style="height:500px"></div>
