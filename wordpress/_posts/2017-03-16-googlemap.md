@@ -13,15 +13,15 @@ Copy the [markers.json](https://github.com/revitalk/google-maps-api-template) an
   - Duplicate page.php and rename it page-map.php. 
   - Add a php comment at the top of the page:
   
-      <?php
-      /*
-      Template Name: Map
-      */
-      ?>
+        <?php
+        /*
+        Template Name: Map
+        */
+        ?>
       
 - Add a div for the map in page-map.php:
 
-    <div id="map" style="height:500px"></div>
+      <div id="map" style="height:500px"></div>
     
 Adjust the height to your liking or include it in your style.css
 Add the following
