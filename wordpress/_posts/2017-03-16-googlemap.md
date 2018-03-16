@@ -13,15 +13,15 @@ title: Google Map in WordPress
     - Duplicate page.php and rename it page-map.php. 
     - Add a php comment at the top of the page:
   
-        <?php
-        /*
-        Template Name: Map
-        */
-        ?>
-      
+             <?php
+               /*
+               Template Name: Map
+               */
+              ?>
+        
 1. Add a div for the map in page-map.php:
 
-      <div id="map" style="height:500px"></div>
+              <div id="map" style="height:500px"></div>
     
     Adjust the height to your liking or include it in your style.css
 1. Add a link to script.js:
@@ -30,14 +30,14 @@ title: Google Map in WordPress
 
 1. Open script.js make the following changes:
   
-  - Fix the link to the Json file. Change:
+    - Fix the link to the Json file. Change:
   
-      fetch('markers.json') 
+             fetch('markers.json') 
   
-    to:
+        to:
   
-      fetch('../markers.json')
+             fetch('../markers.json')
       
-  - Add your own key.	
-  - Change the center locaiton and the zoom factor. 
+    - Add your own key.	
+    - Change the center locaiton and the zoom factor. 
 1. change the data in markers.json
