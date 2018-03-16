@@ -6,15 +6,17 @@ title: Google Map in WordPress
 ---
 
 **Step-by-step instructions to hard-code a google map with custom markers and popup info boxes in one of your WordPress site pages. The data for the markers locations and info boxes will be retrieved from a Json file.**
-Copy this script.js file and save it in the js folder in your theme directory.
-Copy the markers.json file and save it in the root directory of your wordpress website. This way it will be easier for your client to find the page and add/change locations and data.
-Create a custom template for your map page. 
-Duplicate page.php and rename it page-map.php. Add a php comment at the top of the page:
-  <?php
-  /*
-  Template Name: Map
-  */
-  ?>
+
+- Copy [script.js](https://github.com/revitalk/google-maps-api-template) and place it in the js folder in your theme directory.
+Copy the [markers.json](https://github.com/revitalk/google-maps-api-template) and place it in the root directory of your wordpress website. This way it will be easier for your client to find it and add or change locations and data.
+- Create a custom template for your map page: 
+  - Duplicate page.php and rename it page-map.php. 
+  - Add a php comment at the top of the page:
+        <?php
+        /*
+        Template Name: Map
+        */
+        ?>
 
 Add a div in page-map.php:
 <div id="map" style="height:500px"></div>
