@@ -26,7 +26,7 @@ title: Google Map in WordPress
     Adjust the height to your liking or include it in your style.css
 1. Add a link to script.js:
 
-      <script src="<?php echo get_template_directory_uri(); ?>/js/script.js" defer></script>
+        <script src="<?php echo get_template_directory_uri(); ?>/js/script.js" defer></script>
 
 1. Open script.js make the following changes:
   
