@@ -43,7 +43,7 @@ title: Google Map in WordPress
 1. Change the data in markers.json
 1. In the dashboard, create a new page and choose the template 'Map'.
 
-** To include images in the popup windows**
+**To include images in the popup windows**
 1. Create a folder for the images in the root directory of your wordpress website and upload the images ro it.
 1. To include an image in the popup window just add the html code and use the escape character before a quote. For example:
 
