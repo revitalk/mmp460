@@ -2,7 +2,7 @@
 layout: class
 site: MMP 460 Multimedia Project Lab
 categories: wordpress underscore
-title: Assigning a different header image for different pages
+title: Assigning different header images for different pages
 ---
 
 Add the following code to header.php:
