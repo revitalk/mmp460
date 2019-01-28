@@ -3,13 +3,15 @@ site: MMP 460 Multimedia Project lab
 title: WordPress Portfolio Website
 layout: class
 ---
-Create a WordPress portfolio website that will introduce yourself and your work to potential employers. Use a theme of your choice with some customization of its design. 
+Create a WordPress portfolio website that will introduce yourself and your work to potential employers. Use a theme of your choice but one that is appropriate to display your work.
 
 Your website must include the following items:
 
-- A showcase of your multimedia and art projects done in BMCC and elsewhere. You can include other types of assignments, such as an essay, if relevant to your future job search.
+- Name/logo that identifies you
+- A sentence specifying what kind of work you do/want to do
+- A showcase of projects done in BMCC and elsewhere that are relevant to your career or educational aspiration. You can include other types of assignments, such as an essay, if relevant to your future job search.
 - A description or explanation of each work.
-- A paragraph introducing yourself and summarizing your professional goals
+- A paragraph about youyself
 - Your resume
 - Your contact information
 
@@ -19,6 +21,7 @@ Your website must include the following items:
   - What are your immediate professional goals? In other words, what kind of job or assignment do you hope this website will help you get?
   - How will you introduce yourself professionally? a web designer? a programmer? a graphic designer?
   - How many projects do you have to show? How many of them will you include in the portfolio?
+  - What kinds of projects are relevant to the kind of work you want to do
 
 2. **Organize your site’s content**
   - Select the work that you would like to showcase in the portfolio.
@@ -31,8 +34,6 @@ Your website must include the following items:
   - a paragraph introducing yourself and your professional goals.
   - a short description for each of the projects in your portfolio.
   
-4. **Sketch**
-  - With penceil on paper. sketch the way you want the different pages to look like
 
 
 
