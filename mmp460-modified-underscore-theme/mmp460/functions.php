@@ -46,8 +46,9 @@ if ( ! function_exists( 'mmp460_setup' ) ) :
 		register_nav_menus( array(
 			'primary' => esc_html__( 'Primary', 'mmp460' ),
 		) );
-
+        
 		/*
+		
 		 * Switch default core markup for search form, comment form, and comments
 		 * to output valid HTML5.
 		 */
@@ -159,6 +160,5 @@ if ( defined( 'JETPACK__VERSION' ) ) {
 	require get_template_directory() . '/inc/jetpack.php';
 }
 
-/* Register Custom Bootstrap Navigation Walker.
-*/
-require_once('class-wp-bootstrap-navwalker.php');
+// Register Custom Navigation Walker
+require_once get_template_directory() . '/class-wp-bootstrap-navwalker.php';

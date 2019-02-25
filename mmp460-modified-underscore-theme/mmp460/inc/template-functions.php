@@ -31,7 +31,7 @@ add_filter( 'body_class', 'mmp460_body_classes' );
  */
 function mmp460_pingback_header() {
 	if ( is_singular() && pings_open() ) {
-		echo '<link rel="pingback" href="', esc_url( get_bloginfo( 'pingback_url' ) ), '">';
+		printf( '<link rel="pingback" href="%s">', esc_url( get_bloginfo( 'pingback_url' ) ) );
 	}
 }
 add_action( 'wp_head', 'mmp460_pingback_header' );
